@@ -1,0 +1,8 @@
+Ingles
+Office
+Phyton
+AutoCad
+Espanhol
+Internet
+Unix
+Bash
